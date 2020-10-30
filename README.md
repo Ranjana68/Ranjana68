@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m have worked on C,C++,Java, Android, Flutter,HTML,CSS.
+- 🔭 Worked on C, C++, Java, Android, Flutter, HTML, CSS.
 - 💬 Ask me about the above or Competitive Coding.
 - 📫 How to reach me :  [Linkedin](https://www.linkedin.com/in/ranjana-bhardwaj-043b26136/) , [Twitter](https://twitter.com/RANJANABHARDW18)
 - ⚡ Fun fact: Love Coding
