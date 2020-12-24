@@ -45,6 +45,11 @@ Here are some ideas to get you started:
 - 🛢 &nbsp; MySQL | Firebase | Oracle
 - 🔧 &nbsp; Android Studio | Visual Studio code | Eclipse | Git
 
+ <h2> Some Projects </h2>
+- Flutter Project  - [One Tap Lifeline](https://github.com/Ranjana68/One-Tap-Lifeline)
+- Android Project  - [Shop and Sell](https://github.com/Ranjana68/Project-ShopAndSell-Android)
+
+
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjana68&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ranjana's Github Stats">
