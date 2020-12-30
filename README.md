@@ -1,5 +1,18 @@
 
 <!--
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 💬 &nbsp; Ask me about the above or Competitive Coding.
+- ⚡ &nbsp; Fun fact: Love Coding
+- ☕ &nbsp; I belive, in working hard with passion without thinking about the results.
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; Android developer and front-end web developer.
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- ✍️ &nbsp; Like to be updated about new technologies
+
 
  Hi there 👋
 - 🔭 Worked on C, C++, Java, Android, Flutter, HTML, CSS.
@@ -21,22 +34,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2> Hey there!  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 💬 &nbsp; Ask me about the above or Competitive Coding.
-- ⚡ &nbsp; Fun fact: Love Coding
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Like to be updated about new technologies
-- ☕ &nbsp; I belive, in working hard with passion without thinking about the results.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -51,6 +52,8 @@ Here are some ideas to get you started:
 - Flutter Project  - [One Tap Lifeline](https://github.com/Ranjana68/One-Tap-Lifeline)
 
 - Android Project  - [Shop and Sell](https://github.com/Ranjana68/Project-ShopAndSell-Android)
+
+- Web Project  -[Academy Website](https://github.com/Ranjana68/Academy-Website-HTML-CSS)
 
 
 <br>
