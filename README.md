@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C | C++ | Java | Python
+- 💻 &nbsp; C | C++ | JavaScript | TypeScript | Java | Python
+-  💻 &nbsp; React JS | React Native | GraphQL | 
 - 🌐 &nbsp; Android | Flutter | HTML | CSS | Pycharm
 - 🛢 &nbsp; MySQL | Firebase | Oracle
 - 🔧 &nbsp; Android Studio | Visual Studio code | Eclipse | Git
